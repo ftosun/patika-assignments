@@ -1,2 +1,3 @@
-# patika-assignments
-All the Assignments I built for patika.dev course
+# 1-simple-page
+Simple page made with JavaScipt without using functions.
+
